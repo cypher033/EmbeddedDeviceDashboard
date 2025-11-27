@@ -1,0 +1,8 @@
+# CMakeLists.txt en src/
+# Aquí más adelante haremos:
+# - add_subdirectory(core)
+# - add_subdirectory(infra)
+# - add_subdirectory(ui)
+# - add_subdirectory(app)
+# - add_subdirectory(util)
+# - add_subdirectory(tests) si lo necesitamos desde aquí

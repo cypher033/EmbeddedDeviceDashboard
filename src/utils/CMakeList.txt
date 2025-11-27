@@ -1,0 +1,4 @@
+# CMakeLists.txt en src/util
+# Aquí más adelante podremos poner utilidades compartidas:
+# - add_library(util ...)
+# - target_link_libraries(util ...)

@@ -1,0 +1,5 @@
+# CMakeLists.txt en tests/
+# Aquí más adelante configuraremos el framework de pruebas:
+# - find_package(GTest ...) o similar
+# - add_executable(...) / add_library(...)
+# - add_test(...)

@@ -1,0 +1,4 @@
+# CMakeLists.txt en src/infra
+# Aquí más adelante crearemos la librería 'infra':
+# - add_library(infra ...)
+# - target_link_libraries(infra core Qt6::SerialPort ...)

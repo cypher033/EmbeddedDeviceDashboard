@@ -1,0 +1,4 @@
+# CMakeLists.txt en src/app
+# Aquí más adelante definiremos el ejecutable principal:
+# - add_executable(...)
+# - target_link_libraries(...)

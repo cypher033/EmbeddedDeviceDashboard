@@ -1,0 +1,5 @@
+# CMakeLists.txt en src/core
+# Aquí más adelante crearemos la librería 'core':
+# - add_library(core ...)
+# - target_include_directories(core ...)
+# - (IMPORTANTE: core NO deberá linkear Qt)

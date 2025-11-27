@@ -1,0 +1,4 @@
+# CMakeLists.txt en src/ui
+# Aquí más adelante crearemos la librería 'ui':
+# - add_library(ui ...)
+# - target_link_libraries(ui core Qt6::Widgets ...)

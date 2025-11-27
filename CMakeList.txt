@@ -1,0 +1,7 @@
+# CMakeLists.txt (root)
+# Aquí más adelante definiremos:
+# - versión mínima de CMake
+# - nombre del proyecto
+# - estándar de C++
+# - integración con Qt
+# - add_subdirectory(src)
